@@ -1,7 +1,9 @@
 name: flutter_easy_picker
 description: A new Flutter package project.
 version: 1.0.0
-homepage:
+homepage: <em>https://github.com/PhanithNoch/flutter_easy_picker</em>. 
+author: nochphanith@gmail.com
+
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
@@ -10,6 +12,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  image_picker: ^0.8.7+5
+  get: ^4.6.5
+  photo_view: ^0.14.0
+  
 
 dev_dependencies:
   flutter_test:
